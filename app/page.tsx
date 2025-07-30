@@ -15,12 +15,12 @@ export default function Home() {
     <PageLayout backgroundImage="/images/background.png">
       <Container>
         <MemorialHeader
-          fullName="FIRST_NAME MIDDLE_NAME LAST_NAME"
-          birthDate="1964-06-15"
-          deathDate="2024-10-09"
-          photoUrl="https://zqqyhudmcjwubslcaznh.supabase.co/storage/v1/object/public/memorial_photos/memorial/l_i25vXr5z2_g-o9AtgBp.png"
-          birthPlace="Телеханы, Беларусь"
-          deathPlace="Брест, Беларусь"
+          fullName="Ваня Петров"
+          birthDate="2006-05-02"
+          deathDate="2025-07-15"
+          photoUrl="https://rfuuxxxcubnqezacyouv.supabase.co/storage/v1/object/public/memorial-media/memorials/d46dd390-7a72-4a62-b5fa-fff04d289fe0/photo/1753892625154_l_i25vxr5z2_g-o9atgbp.webp"
+          birthPlace="Место рождения"
+          deathPlace="Место смерти"
         />
         <MemorialInfo />
         <MemorialBio />
